@@ -3,7 +3,7 @@ https://wordpress.org/plugins/wp-support-plus-responsive-ticket-system/
 
 
 
-there is a sql inject in the cookie value email and the post parameter "filter[order_by]".
+there are two sql injects,one in the cookie value email and another in the post parameter "filter[order_by]".
 
 there is a picture for the test of the official website of responsive-ticket-system.
 ![Aaron Swartz](wp.png)
